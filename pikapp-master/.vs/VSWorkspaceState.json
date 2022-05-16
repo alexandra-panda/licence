@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\api",
+    "\\src\\assets",
+    "\\src\\components",
+    "\\src\\redux",
+    "\\src\\redux\\Apps",
+    "\\src\\routes",
+    "\\src\\routes\\auth",
+    "\\src\\types"
+  ],
+  "SelectedNode": "\\src\\components\\Evacuators.tsx",
+  "PreviewInSolutionExplorer": false
+}
